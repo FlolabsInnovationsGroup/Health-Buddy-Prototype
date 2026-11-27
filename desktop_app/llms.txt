@@ -1,0 +1,14 @@
+# FloHealth Buddy
+
+> FloHealth Buddy is a web app by FloLabs with two dashboards: Personal Health, for managing medications, wellness, appointments and daily health, and Coach Dashboard, for managing athletes, attendance, training sessions and team insights.
+
+FloHealth Buddy (Version 1.0 MVP) is a prototype. The people, medications, athletes and team figures shown in the app are sample data. The app opens on a welcome screen where you choose a default dashboard, and you can switch between the two views at any time. Both views live at the same URL.
+
+## Views
+
+- Personal Health: home dashboard with today's medications and medication schedule, upcoming appointments, weekly wellness goals, health & nutrition, and check-in & motivation; plus Community and Records.
+- Coach Dashboard: team overview, athlete attention and team readiness, upcoming game and today's practice; plus Athletes (athlete management), Calendar (team calendar), Teams Insights, Field & Scoresheet, and Community.
+
+## Links
+
+- [FloHealth Buddy](https://health-buddy-prototype.vercel.app/): the app (welcome screen, Personal Health and Coach Dashboard)
